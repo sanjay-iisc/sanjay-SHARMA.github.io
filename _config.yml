@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sanjay / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sanjay SHARMA"
 description              : &description "personal description"
@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5188.JPG"
   name             : "SHARMA Sanjay"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Paris"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
