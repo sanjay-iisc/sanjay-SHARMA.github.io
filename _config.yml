@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_5188.JPG"
   name             : "SHARMA Sanjay"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer vision engineer"
   location         : "Paris"
-  employer         : "Red Brick University"
+  employer         : "Capgemini Engineering"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sanjaysharmagate@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
