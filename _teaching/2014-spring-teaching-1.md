@@ -9,12 +9,13 @@ location: "Paris, France"
 ---
 
 
-Heading 1
+Subject: Data Analysis and Management
 ======
-
-Heading 2
+* Developed and delivered the Data Analysis course, covering fundamental and advanced topics.
+* Provided personalized mentorship and guidance on academic projects, supporting students in applying theoretical concepts to real-world scenarios.
+<!-- Heading 2
 ======
 
 Heading 3
-======
+====== -->
 
