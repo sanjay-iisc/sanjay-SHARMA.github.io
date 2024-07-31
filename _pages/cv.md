@@ -29,10 +29,10 @@ Work experience
 * Research Engineer, CAPGEMINI ENGINEERING - ALTRAN PROTOTYPE AUTOMOBILES, Issy-les-Moulineaux, France
 * **February 2023 - Present**
 * Project: 5G Open Road Project
-- Developed sensor fusion algorithms for camera and LiDAR in the vision module.
-- Trained, validated, and deployed deep learning models based on Transformer architecture.
-- Implemented unsupervised learning techniques for LiDAR point cloud detection and classification.
-- Created first-principle-based image segmentation algorithms for the driving road environment.
+  * Developed sensor fusion algorithms for camera and LiDAR in the vision module.
+  * Trained, validated, and deployed deep learning models based on Transformer architecture.
+  * Implemented unsupervised learning techniques for LiDAR point cloud detection and classification.
+  * Created first-principle-based image segmentation algorithms for the driving road environment.
 
 * Fall 2015: Research Assistant
   * Github University
