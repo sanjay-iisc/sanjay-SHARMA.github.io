@@ -17,7 +17,7 @@ Education
 
 
 * M.Tech. in Aerospace Engineering (2016-2018) 
-  * Specialization: **Control system and Vibration control**
+  * Specialization: **Control system and Vibration Control**
   * **Indian Institute of Science, Bangalore, India**
 
 * B.Tech. in Aeronautical Engineering, Rajasthan Technical University, India, 2015
@@ -25,10 +25,14 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
+* Research Engineer, CAPGEMINI ENGINEERING - ALTRAN PROTOTYPE AUTOMOBILES, Issy-les-Moulineaux, France
+* **February 2023 - Present**
+* Project: 5G Open Road Project
+- Developed sensor fusion algorithms for camera and LiDAR in the vision module.
+- Trained, validated, and deployed deep learning models based on Transformer architecture.
+- Implemented unsupervised learning techniques for LiDAR point cloud detection and classification.
+- Created first-principle-based image segmentation algorithms for the driving road environment.
 
 * Fall 2015: Research Assistant
   * Github University
