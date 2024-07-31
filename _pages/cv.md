@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science
-Specialization: Image and Signal Processing
-CEA-List, Université Paris-Saclay, Paris, France
-2022
+* Ph.D. in Computer Science (2019-2022)
+  * Specialization: **Image and Signal Processing**
+  * **CEA-List, Université Paris-Saclay, Paris, France**
 
-* M.Tech. in Aerospace Engineering
-Specialization: Control system and Vibration
-Indian Institute of Science, Bangalore, India
-2018
+
+* M.Tech. in Aerospace Engineering (2016-2018) 
+  * Specialization: **Control system and Vibration control**
+  * **Indian Institute of Science, Bangalore, India**
 
 * B.Tech. in Aeronautical Engineering, Rajasthan Technical University, India, 2015
 
