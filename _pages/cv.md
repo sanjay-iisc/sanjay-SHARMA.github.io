@@ -34,10 +34,13 @@ Work experience
   * Implemented unsupervised learning techniques for LiDAR point cloud detection, and classification.
   * Created first-principle-based image segmentation algorithms for the driving road environment.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Doctoral Researcher in SHM (Predictive Maintenance), CEA-LIST, Paris-Saclay, France
+* **April 2019 - October 2022**
+* Thesis: Performance Demonstration of Guided Waves Based Structural Health Monitoring System
+
+  * Developed Probability of Detection (POD) curves for defect detection in SHM using Bayesian probabilistic modeling.
+  * Demonstrated the efficacy of various data-driven models, including Support Vector Machines and Deep Learning, in enhancing the probability of defect detection.
+  * Modeled sensors for higher frequency excitation of guided waves in a computational domain to improve SHM simulation accuracy.
 
 * Summer 2015: Research Assistant
   * Github University
