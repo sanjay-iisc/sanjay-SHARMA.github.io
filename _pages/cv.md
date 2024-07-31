@@ -37,7 +37,6 @@ Work experience
 ### Doctoral Researcher in SHM (Predictive Maintenance), CEA-LIST, Paris-Saclay, France
 * **April 2019 - October 2022**
 * Thesis: Performance Demonstration of Guided Waves Based Structural Health Monitoring System
-
   * Developed Probability of Detection (POD) curves for defect detection in SHM using Bayesian probabilistic modeling.
   * Demonstrated the efficacy of various data-driven models, including Support Vector Machines and Deep Learning, in enhancing the probability of defect detection.
   * Modeled sensors for higher frequency excitation of guided waves in a computational domain to improve SHM simulation accuracy.
