@@ -26,7 +26,7 @@ My primary focus was on developing a **probability of detection (POD) curve**, w
 <!-- Currently, on weekends, we are actively collaborating on backdoor attack and defense strategies for the YOLO model, as well as working on a research paper. Please note that this experience is not included in my resume. -->
 
 
-
+<!-- 
 
 
 
@@ -69,4 +69,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
