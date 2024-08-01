@@ -12,8 +12,8 @@ Current work
 ------
 As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years. Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud.
 <p align="center">
-  <img src="images/detection.png" alt="Beautiful Sunset" width="45%">
-  <img src="images/Lidar.png" alt="Mountain Landscape" width="45%">
+  <img src="images/detection.png" alt="Beautiful Sunset" width="45%" height="200">
+  <img src="images/Lidar.png" alt="Mountain Landscape" width="45%" height="100">
 </p>
 
 Extra work
