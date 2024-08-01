@@ -11,10 +11,8 @@ I try to make eyes for computers so they can see and assist us in this highly pr
 
 I currently work as a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years. Here, I developed a reliable perception module for cameras and LiDAR, showcasing my ability to build robust detection systems using advanced machine learning techniques.
 
-I hold a Ph.D. in Image and Signal Processing from [CEA-LIST](https://list.cea.fr/fr/), [Université Paris-Saclay](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=universit%C3%A9+paris+saclay), completed in October 2022. My [Ph.D. research](https://theses.hal.science/tel-04318941) ![SHM](images/SHM.png){: .align-right width="300px"} focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
-<div style="text-align: right">
-  <img src="images/SHM.png" alt="Sample Image" style="width: 300px;">
-</div>
+I hold a Ph.D. in Image and Signal Processing from [CEA-LIST](https://list.cea.fr/fr/), [Université Paris-Saclay](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=universit%C3%A9+paris+saclay), completed in October 2022. My [Ph.D. research](https://theses.hal.science/tel-04318941) ![SHM](images/SHM.png){: .align-right width="500px"} focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
+
 
 At Capgemini, I have been part of the 5G Open Road consortium, working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs) and Kalman filters, ensuring real-time alerts for drivers via 5G. Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
 
