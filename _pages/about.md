@@ -6,13 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working on allowing computers to see and help us in our highly Bayesian probabilistic world. To do this, I have continuously developed skills in various areas like computer vision, machine and deep learning, signal processing for time series, uncertainty analysis, advanced statistics, simulation, and physics-based models. I am interested in using these skills in automotive, energy, and medical applications on embedded systems and in the cloud.
+I am working on allowing computers to see and help us in our highly Bayesian probabilistic world. To do this, I have continuously developed skills in various areas like computer vision, machine and deep learning, signal processing for time series, uncertainty analysis, advanced statistics, simulation, and physics-based models. I am interested in using these skills in automotive, energy, and medical applications on the embedded and cloud platforms.
 
 Current work
 ------
 As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years. Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud.
 
-
+Extra work
+------
+There was a four-month interval between the completion of my PhD and my commencement at Capgemini. During this time, I was engaged with a postdoctoral researcher at CEA-List in the **development of federated learning techniques, backdoor attacks and defense mechanisms using Robust Learning Rate (RLR)**. This work was applied to four datasets: German Traffic Sign, Fashion MNIST, EMNIST, and MNIST. 
 
 PhD work
 ------
@@ -20,16 +22,14 @@ I hold a Ph.D. in **Image and Signal Processing** from [CEA-LIST](https://list.c
 
 My primary focus was on developing a **probability of detection (POD) curve**, which is a statistical method used to identify the minimum size of a defect that can be missed by an inspection algorithm while taking into account constraints on the limited availability of samples from the inspection structure. I achieved this by utilizing Bayesian probabilistic models to effectively evaluate and quantify performance differences across various use cases in terms of the POD curve. Additionally, I successfully conducted an experimental campaign involving thirteen aluminum plates to gather sufficient samples, along with a simulation study with uncertainty propagation, in order to provide a comprehensive convergence study and **decision making of "YES" or "NO" of presence of defect in the structure**. Furthermore, I implemented machine and deep learning models to predict performance based on experimental data, using classification and regression analysis on images reconstructed through imaging algorithms based on first principles. This work has contributed significantly to the advancement of guided wave SHM, and the corresponding paper is currently under writing.
 
-Extra work
-------
-In addition, there was a four-month interval between the completion of my PhD and my commencement at Capgemini. During this time, I was engaged with a postdoctoral researcher at CEA-List in the **development of federated learning techniques, backdoor attacks and defense mechanisms using Robust Learning Rate (RLR)**. This work was applied to four datasets: German Traffic Sign, Fashion MNIST, EMNIST, and MNIST. Currently, on weekends, we are actively collaborating on backdoor attack and defense strategies for the YOLO model, as well as working on a research paper. Please note that this experience is not included in my resume.
+
+<!-- Currently, on weekends, we are actively collaborating on backdoor attack and defense strategies for the YOLO model, as well as working on a research paper. Please note that this experience is not included in my resume. -->
 
 
 
 At Capgemini, I have been part of the 5G Open Road consortium, working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs) and Kalman filters, ensuring real-time alerts for drivers via 5G. Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
 
 
-Before joining Capgemini, I spent four months as a postdoctoral researcher at CEA-List, where I worked on federated learning techniques and defense mechanisms against backdoor attacks. This research, applied to various datasets, is ongoing, and I am currently co-authoring a paper on these topics.
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
