@@ -6,6 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I try to make eyes for computers so they can see and assist us in this highly probabilistic world. To do so, I expanded my skills in multiple domains, including computer vision, machine/deep learning,  signal processing for time series, uncertainty analysis, simulation and of course first principle based algorithms including physics infomed models.
+
+I currently work as a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years. Here, I developed a reliable perception module for cameras and LiDAR, showcasing my ability to build robust detection systems using advanced machine learning techniques.
+
+I hold a Ph.D. in Image and Signal Processing from CEA-LIST, Université Paris-Saclay, completed in October 2022. My Ph.D. research focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
+
+At Capgemini, I have been part of the 5G Open Road consortium, working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs) and Kalman filters, ensuring real-time alerts for drivers via 5G. Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
+
+
+Before joining Capgemini, I spent four months as a postdoctoral researcher at CEA-List, where I worked on federated learning techniques and defense mechanisms against backdoor attacks. This research, applied to various datasets, is ongoing, and I am currently co-authoring a paper on these topics.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
