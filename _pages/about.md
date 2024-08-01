@@ -10,7 +10,7 @@ I am working on allowing computers to see and help us in our highly Bayesian pro
 
 Current work
 ------
-As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years. ![LIDAr](images/Lidar.png){: .align-right width="300px"} Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud.
+As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years.  ![LIDAr](images/Lidar.png){: .align-right width="300px"} Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud. At Capgemini, I have been part of the 5G Open Road consortium, working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs) and Kalman filters, ensuring real-time alerts for drivers via 5G.  Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
 
 Extra work
 ------
@@ -27,7 +27,7 @@ My primary focus was on developing a **probability of detection (POD) curve**, w
 
 
 
-At Capgemini, I have been part of the 5G Open Road consortium, working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs) and Kalman filters, ensuring real-time alerts for drivers via 5G. Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
+
 
 
 
