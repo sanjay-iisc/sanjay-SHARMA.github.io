@@ -18,8 +18,8 @@ There was a four-month interval between the completion of my PhD and my commence
 
 PhD work
 ------
-I hold a Ph.D. in **Image and Signal Processing** from [CEA-LIST](https://list.cea.fr/fr/), [Université Paris-Saclay](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=universit%C3%A9+paris+saclay), completed in October 2022. My [Ph.D. research](https://theses.hal.science/tel-04318941) ![SHM](images/SHM.png){: .align-right width="500px"} focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
-![Experiment](images/experiment_dig.gif){: .align-center width="500px"}
+I hold a Ph.D. in **Image and Signal Processing** from [CEA-LIST](https://list.cea.fr/fr/), [Université Paris-Saclay](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=universit%C3%A9+paris+saclay), completed in October 2022. My [Ph.D. research](https://theses.hal.science/tel-04318941) ![SHM](images/SHM.png){: .align-right width="200px"} ![Experiment](images/experiment_dig.gif){: .align-right width="200px"} focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
+![Experiment](images/experiment_dig.gif){: .align-right width="500px"}
 
 
 
