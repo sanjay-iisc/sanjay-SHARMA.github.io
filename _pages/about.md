@@ -15,7 +15,7 @@ As a Research Engineer in Computer Vision at Capgemini Engineering, where I have
 Extra work (En chômage)
 ------
 There was a four-month interval between the completion of my PhD and my commencement at Capgemini. During this time, I was engaged with a postdoctoral researcher at CEA-List in the **development of federated learning techniques, backdoor attacks and defense mechanisms using Robust Learning Rate (RLR)**. This work was applied to four datasets: German Traffic Sign, Fashion MNIST, EMNIST, and MNIST. 
-![RLRB](images/RLR_B.png){: .align-left width="500px"} ![RLRB](images/RLR_B.png){: .align-right width="500px"}
+![RLRB](images/RLR_B.png){: .align-left width="200px"} ![RLRB](images/RLR_B.png){: .align-right width="200px"}
 
 PhD work
 ------
