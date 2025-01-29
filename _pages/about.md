@@ -6,10 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am working on allowing computers to see and help us in our highly probabilistic world. To do this, I have continuously developed skills in various areas like computer vision, machine and deep learning, image and signal processig, uncertainty analysis, advanced statistics, simulation, and physics-based models. I am interested in using these skills in automotive, energy, and medical applications on the embedded and cloud platforms.
+<p>
+    I am a 👨‍💻 computer vision engineer with a 🎓 PhD in Image and Signal Processing from 🏛️ CEA Paris-Saclay, currently working at Capgemini Engineering in Paris.  
+    My focus is on enabling computers to 👀 see and interpret our probabilistic world.  
+    I have developed expertise in various areas, including computer vision, 🤖 machine learning,  
+    deep learning, 🏞️ image and 📡 signal processing, uncertainty analysis, advanced statistics,  
+    simulation, and 🔬 physics-based models.  
+    I am particularly interested in applying these skills within the 🚗 automotive, ⚡ energy,  
+    and 🏥 medical sectors, utilizing both embedded and ☁️ cloud platforms.
+</p>
+<p>
+    In my last two years at Capgemini, I have worked on real-time perception for autonomous systems  
+    as part of the 5G Open Road project and on developing Advanced Driver Assistance Systems (ADAS).  
+    My work concentrates on 🔄 sensor fusion, 📡 LiDAR-camera data processing, and 🛠️ perception algorithms.
+</p>
 
 Current work
 ------
+### 5G Open Road
 As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years.  ![LIDAr](images/Lidar.png){: .align-right width="300px"} Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud. At Capgemini, I have been part of the [5G Open Road consortium](http://5gopenroad.com/), working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs)/ vision transformers and Kalman/partical filters, ensuring real-time alerts for drivers via 5G.  Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
 
 Extra work (En chômage)
@@ -35,6 +49,8 @@ Furthermore, I implemented machine and deep learning models to predict performan
 | Four sensors time domain signals | Defect image reconstraction |
 |---------|---------|
 | ![SHM - Defect detection](images/ImageReco.png "Image reconstraction"){:width="700px"} | ![Experiment](images/experiment_dig.gif){:width="400px"} |
+
+Lastly, I have also worked on developing a hybrid piezoelectric sensor model that utilizes the dynamics of the actuator to simulate higher frequency ultrasonic guided waves. This model serves as a computational tool for generating simulations to verify experimental results.
 
 <!-- Currently, on weekends, we are actively collaborating on backdoor attack and defense strategies for the YOLO model, as well as working on a research paper. Please note that this experience is not included in my resume. -->
 
