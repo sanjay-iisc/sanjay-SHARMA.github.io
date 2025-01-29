@@ -15,15 +15,26 @@ As a Research Engineer in Computer Vision at Capgemini Engineering, where I have
 Extra work (En chômage)
 ------
 There was a four-month interval between the completion of my PhD and my commencement at Capgemini. During this time, I was engaged with a postdoctoral researcher at CEA-List in the **development of federated learning techniques, backdoor attacks and defense mechanisms using Robust Learning Rate (RLR)**. This work was applied to four datasets: German Traffic Sign, Fashion MNIST, EMNIST, and MNIST. 
-![RLRB](images/RLR_B.png){: .align-left width="200px"} ![RLRB](images/RLR_B.png){: .align-right width="200px"}
+
+
+| Before defense | After defense |
+|---------|---------|
+| ![RLRB](images/RLR_B.png) | ![RLRB](images/RLR_B.png) |
+
 
 PhD work
 ------
 I hold a Ph.D. in **Image and Signal Processing** from [CEA-LIST](https://list.cea.fr/fr/), [Université Paris-Saclay](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=universit%C3%A9+paris+saclay), completed in October 2022. My [Ph.D. research](https://theses.hal.science/tel-04318941) focused on structural health monitoring, drawing parallels with human health monitoring. I used machine learning and statistical methods to improve defect detection in structures like airplanes and bridges.
-![SHM](images/SHM.png){: .align-center width="500px"}
+![SHM - Structural Health Monitoring](images/SHM.png "Structural Health Monitoring"){: .align-center width="500px"}
 
-My primary focus was on developing a **probability of detection (POD) curve**, which is a statistical method used to identify the minimum size of a defect that can be missed by an inspection algorithm while taking into account constraints on the limited availability of samples from the inspection structure. I achieved this by utilizing Bayesian probabilistic models to effectively evaluate and quantify performance differences across various use cases in terms of the POD curve. Additionally, I successfully conducted an experimental campaign involving thirteen aluminum plates to gather sufficient samples, along with a simulation study with uncertainty propagation, in order to provide a comprehensive convergence study and **decision making of "YES" or "NO" of presence of defect in the structure**. ![Experiment](images/experiment_dig.gif){: .align-right width="200px"} Furthermore, I implemented machine and deep learning models to predict performance based on experimental data, using classification and regression analysis on images reconstructed through imaging algorithms based on first principles. This work has contributed significantly to the advancement of guided wave SHM, and the corresponding paper is currently under writing.
+My primary focus was on developing a **probability of detection (POD) curve**, which is a statistical method used to identify the minimum size of a defect that can be missed by an inspection algorithm while taking into account constraints on the limited availability of samples from the inspection structure. I achieved this by utilizing Bayesian probabilistic models to effectively evaluate and quantify performance differences across various use cases in terms of the POD curve. Additionally, I successfully conducted an experimental campaign involving thirteen aluminum plates to gather sufficient samples, along with a simulation study with uncertainty propagation, in order to provide a comprehensive convergence study and **decision making of "YES" or "NO" of presence of defect in the structure**. 
 
+Furthermore, I implemented machine and deep learning models to predict performance based on experimental data, using classification and regression analysis on images reconstructed through imaging algorithms based on first principles. This work has contributed significantly to the advancement of guided wave SHM, and the corresponding paper is currently under writing.
+
+
+| Four sensors time domain signals | Defect image reconstraction |
+|---------|---------|
+| ![SHM - Defect detection](images/ImageReco.png "Image reconstraction"){:width="700px"} | ![Experiment](images/experiment_dig.gif){:width="400px"} |
 
 <!-- Currently, on weekends, we are actively collaborating on backdoor attack and defense strategies for the YOLO model, as well as working on a research paper. Please note that this experience is not included in my resume. -->
 
