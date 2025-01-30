@@ -23,8 +23,26 @@ redirect_from:
 
 Current work
 ------
-### 5G Open Road
-As a Research Engineer in Computer Vision at Capgemini Engineering, where I have been for over 1.5 years.  ![LIDAr](images/Lidar.png){: .align-right width="300px"} Here, I developed a reliable perception module for cameras and LiDAR in Robot Operating System, developed in a mixed C++/Python environment, showcasing my ability to build robust detection systems using advanced machine learning techniques and implemented in both Nano Jetson and cloud. At Capgemini, I have been part of the [5G Open Road consortium](http://5gopenroad.com/), working on a project to improve pedestrian safety with smart infrastructure. As the lead developer, I handle detection and tracking using convolutional neural networks (CNNs)/ vision transformers and Kalman/partical filters, ensuring real-time alerts for drivers via 5G.  Additionally, I work on LiDAR detection/tracking, sensor fusion, and developing depth estimation algorithms for the Jetson Nano embedded system.
+### 5G Open Road – Computer Vision and Perception Development
+
+### Project Overview:
+
+The [5G Open Road](http://5gopenroad.com/) project is a consortium initiative aimed at developing real-time perception systems for a World Model, leveraging 5G connectivity for connected and autonomous vehicle applications. The project involves multiple stakeholders, including Renault, Stellantis, and Valeo, and tests are conducted at various locations such as Vélizy, UTAC, Saclay, and École Polytechnique.
+
+| Lidar detection  Vélizy | Camera detection at Saclay |
+|---------|---------|
+| ![Lidar](images/LidarDetection.gif){:width="500px"} | ![Camera](images/Saclay.png){:width="550px" height="50px"} |
+
+
+My role was to lead the development of the **World Model**, ensuring accurate **object detection, tracking, and localization** through efficient sensor fusion algorithms. I worked on optimizing the system for **real-world deployment**, making it robust across various environments. We conducted extensive testing at **Velizy, UTAC, Saclay, and École Polytechnique**, where I played a key role in debugging and refining the system. Additionally, I managed **client interactions** with major stakeholders like **Renault, Stellantis, and Valeo**, ensuring their requirements were met.  My contributions also included **real-time debugging and system optimization**, which were critical during live deployments. You can know more work by me [here](/portfolio/portfolio-3/) 
+
+### CADMoS – Internal Project
+------
+As part of my work in **CaDMOS**, I fine-tuned a **dual-branch LANNET deep learning model** to enhance **lane detection accuracy** and enable **real-time lane number estimation** for autonomous driving applications. This involved optimizing the network for improved robustness across various road conditions. Additionally, I implemented a **stereo matching algorithm** for **stereo camera systems** on **NVIDIA Jetson AGX**, generating high-precision **disparity maps** for **depth estimation** in autonomous vehicle perception. This work contributed to improving the **spatial awareness** of the system, enhancing its ability to detect and interpret road structures in real time.
+
+| LANE detection | Depth estimation| AGX |
+|---------|---------|---------|
+| ![Lidar](images/Lannet.gif){:width="500px"} | ![Camera](images/Depth_lannet.gif){:width="400px" height="50px"} |![AGX](images/IMG_0697.jpg){:width="200px" height="50px"}
 
 Extra work (En chômage)
 ------

@@ -41,19 +41,46 @@ Work experience
   * Demonstrated the efficacy of various data-driven models, including Support Vector Machines and Deep Learning, in enhancing the probability of defect detection.
   * Modeled sensors for higher frequency excitation of guided waves in a computational domain to improve SHM simulation accuracy.
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages  
+  * C  
+  * C++  
+  * Python  
+  * Linux (Shell Scripting)  
+
+* Computer Vision & Image Processing  
+  * OpenCV  
+  * PyTorch  
+  * Computer Vision  
+
+* Sensor Fusion & Perception  
+  * LiDAR  
+  * Radar  
+  * Point Cloud Processing  
+  * Sensor Fusion  
+
+* Machine Learning & Optimization
+  * Deep Learning
+  * Reinforcement Learning  
+  * Bayesian Optimization  
+  * Uncertainty Quantification  
+
+* Embedded & Real-time Systems  
+  * GPU Programming  
+  * Multithreading  
+  * Kalman Filter  
+  * ROS  
+
+* Signal Processing  
+  * Radar Imaging  
+  * General Signal Processing  
+
 
 Publications
 ======
@@ -73,6 +100,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
